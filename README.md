@@ -5,7 +5,7 @@
 1. **Install Node.js** (v18+ recommended)
 2. Clone this repository and navigate to the project folder:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/stavan54sk/ui-automation.git
    cd ui-automation-playwright
    ```
 3. **Install dependencies:**
